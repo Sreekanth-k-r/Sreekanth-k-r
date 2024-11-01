@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Yolo
 - 📫 How to reach me sree_k_@hotmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: Boaing :)
+- ⚡ Fun fact: Boring :)
 
 <!---
 Sreekanth-k-r/Sreekanth-k-r is a ✨ developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
